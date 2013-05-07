@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. RefactorPrinterNaming", "01. RefactorNaming\01. RefactorPrinterNaming.csproj", "{DCF07236-6412-43AA-B1F4-EE30B4423ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. RefactorHuman", "02. RefactorHuman\02. RefactorHuman.csproj", "{2284AA77-6539-40C6-9AC9-C4A6B14E8DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. RefactorButton", "03. RefactorButton\03. RefactorButton.csproj", "{1BCA1216-6BC2-4145-A5EC-9E687ADFA0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Minesweeper", "04. Minesweeper\04. Minesweeper.csproj", "{DEC857FE-F1FC-4F13-96CF-A98E50CEEC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF07236-6412-43AA-B1F4-EE30B4423ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF07236-6412-43AA-B1F4-EE30B4423ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF07236-6412-43AA-B1F4-EE30B4423ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF07236-6412-43AA-B1F4-EE30B4423ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2284AA77-6539-40C6-9AC9-C4A6B14E8DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2284AA77-6539-40C6-9AC9-C4A6B14E8DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2284AA77-6539-40C6-9AC9-C4A6B14E8DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2284AA77-6539-40C6-9AC9-C4A6B14E8DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCA1216-6BC2-4145-A5EC-9E687ADFA0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCA1216-6BC2-4145-A5EC-9E687ADFA0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCA1216-6BC2-4145-A5EC-9E687ADFA0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCA1216-6BC2-4145-A5EC-9E687ADFA0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC857FE-F1FC-4F13-96CF-A98E50CEEC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC857FE-F1FC-4F13-96CF-A98E50CEEC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC857FE-F1FC-4F13-96CF-A98E50CEEC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC857FE-F1FC-4F13-96CF-A98E50CEEC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
